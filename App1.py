@@ -1,4 +1,3 @@
-# Use this 
 pip install streamlit
 import streamlit as st
 import streamlit.components.v1 as components
@@ -74,7 +73,7 @@ html_content = """
         map.on('load', () => {
             map.addSource('your-data-source', {
                 type: 'geojson',
-                data: 'http://localhost:8000/Output_GeoJSON_3.geojson' // Update this URL to your GeoJSON file
+                data: 'https://raw.githubusercontent.com/ssaldana17/Capstone/main/Output_GeoJSON_3.geojson'
             });
 
             // Layer for the epicenter
@@ -147,7 +146,7 @@ html_content = """
         }
 
         document.addEventListener('DOMContentLoaded', function () {
-            fetch('http://localhost:8000/Output_GeoJSON_3.geojson')
+            fetch('https://raw.githubusercontent.com/ssaldana17/Capstone/main/Output_GeoJSON_3.geojson')
             .then(response => response.json())
             .then(data => {
                 allArticles = data.features.map(feature => {
