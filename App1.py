@@ -1,5 +1,5 @@
 # Use this 
-!pip install streamlit
+pip install streamlit
 import streamlit as st
 import streamlit.components.v1 as components
 
