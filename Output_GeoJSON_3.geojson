@@ -1,0 +1,460 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -80.19362,
+                        25.7741728
+                    ],
+                    [
+                        -118.242766,
+                        34.0536909
+                    ],
+                    [
+                        -95.3676974,
+                        29.7589382
+                    ],
+                    [
+                        -122.330062,
+                        47.6038321
+                    ],
+                    [
+                        -74.0060152,
+                        40.7127281
+                    ]
+                ]
+            },
+            "properties": {
+                "Article Title": "The US government is required to publish reports of criminal activity on cruise ships every quarter. They haven't all year.",
+                "Date": "2023-10-31",
+                "Summary": "The US government is required to publish reports of criminal activity on cruise ships every quarter. They haven't all year.",
+                "Category": "Crime",
+                "SubCategory": "Violent Crime - Homicide",
+                "Victim": "adult",
+                "Perpetrator": "unknown",
+                "Setting Type": "Other",
+                "IsEpicenterPresent": false,
+                "LocationNames": [
+                    "Miami, FL",
+                    "Los Angeles, CA",
+                    "Houston, TX",
+                    "Seattle, WA",
+                    "New York City, NY"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -84.17566257468567,
+                        9.536456900000001
+                    ],
+                    [
+                        -118.242766,
+                        34.0536909
+                    ],
+                    [
+                        -80.19362,
+                        25.7741728
+                    ],
+                    [
+                        -95.3676974,
+                        29.7589382
+                    ],
+                    [
+                        -74.0060152,
+                        40.7127281
+                    ],
+                    [
+                        -87.6244212,
+                        41.8755616
+                    ]
+                ]
+            },
+            "properties": {
+                "Article Title": "Costa Rica's homicide rate rises in deadliest year ever",
+                "Date": "2023-11-09",
+                "Summary": "Costa Rica's homicide rate rises in deadliest year ever",
+                "Category": "Crime",
+                "SubCategory": "Violent Crime - Murder",
+                "Victim": "adult",
+                "Perpetrator": "unknown",
+                "Setting Type": "School",
+                "IsEpicenterPresent": true,
+                "LocationNames": [
+                    "Costa Rica",
+                    "Los Angeles, CA",
+                    "Miami, FL",
+                    "Houston, TX",
+                    "New York City, NY",
+                    "Chicago, IL"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -75.8294928,
+                        20.0214637
+                    ],
+                    [
+                        -75.8294928,
+                        20.0214637
+                    ],
+                    [
+                        -75.2034783,
+                        20.1431797
+                    ],
+                    [
+                        -75.78919775863332,
+                        20.91155765
+                    ]
+                ]
+            },
+            "properties": {
+                "Article Title": "Surge in violent crime is worrying Cubans. The government calls it fake news...",
+                "Date": "2023-09-24",
+                "Summary": "Surge in violent crime is worrying Cubans. The government calls it fake news...",
+                "Category": "Religion",
+                "SubCategory": "Religious Discrimination       ",
+                "Victim": "adult",
+                "Perpetrator": "unknown",
+                "Setting Type": "Residential Area",
+                "IsEpicenterPresent": true,
+                "LocationNames": [
+                    "Santiago de Cuba, Cuba",
+                    "Santiago de Cuba, Cuba",
+                    "Guantanamo, Cuba",
+                    "Holgu\u00edn, Cuba"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -77.0365427,
+                        38.8950368
+                    ],
+                    [
+                        -76.610759,
+                        39.2908816
+                    ],
+                    [
+                        -75.1635262,
+                        39.9527237
+                    ],
+                    [
+                        -83.0466403,
+                        42.3315509
+                    ],
+                    [
+                        -90.1910154,
+                        38.6280278
+                    ],
+                    [
+                        -90.0782127,
+                        29.9759983
+                    ]
+                ]
+            },
+            "properties": {
+                "Article Title": "Blue City Passes 200 Homicides At Earliest Date In More Than 25 Years",
+                "Date": "2023-09-22",
+                "Summary": "Blue City Passes 200 Homicides At Earliest Date In More Than 25 Years",
+                "Category": "Politics",
+                "SubCategory": "Policies - LGBTQ",
+                "Victim": "adult",
+                "Perpetrator": "unknown",
+                "Setting Type": "Residential Area",
+                "IsEpicenterPresent": true,
+                "LocationNames": [
+                    "Washington, D.C., USA",
+                    "Baltimore, MD",
+                    "Philadelphia, PA",
+                    "Detroit, MI",
+                    "St. Louis, MO",
+                    "New Orleans, LA"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -87.6244212,
+                        41.8755616
+                    ],
+                    [
+                        -73.9497211,
+                        40.6526006
+                    ],
+                    [
+                        -122.419906,
+                        37.7790262
+                    ],
+                    [
+                        -122.674194,
+                        45.5202471
+                    ],
+                    [
+                        -122.330062,
+                        47.6038321
+                    ]
+                ]
+            },
+            "properties": {
+                "Article Title": "Carjackings, Looting, And Murder: \u2018Equity\u2019 In Action!",
+                "Date": "2023-11-12",
+                "Summary": "Carjackings, Looting, And Murder: \u2018Equity\u2019 In Action!",
+                "Category": "Media",
+                "SubCategory": "Hate Speech",
+                "Victim": "adult",
+                "Perpetrator": "unknown",
+                "Setting Type": "Residential Area",
+                "IsEpicenterPresent": false,
+                "LocationNames": [
+                    "- Chicago, IL",
+                    "- Brooklyn, NY",
+                    "- San Francisco, CA",
+                    "- Portland, OR",
+                    "- Seattle, WA"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -71.060511,
+                        42.3554334
+                    ],
+                    [
+                        -118.242766,
+                        34.0536909
+                    ],
+                    [
+                        -75.1635262,
+                        39.9527237
+                    ],
+                    [
+                        -95.3676974,
+                        29.7589382
+                    ]
+                ]
+            },
+            "properties": {
+                "Article Title": "Number of murders 'nearly doubled' in Ireland year-on-year, new statistics show",
+                "Date": "2023-06-29",
+                "Summary": "Number of murders 'nearly doubled' in Ireland year-on-year, new statistics show",
+                "Category": "Education",
+                "SubCategory": "Academic Stress",
+                "Victim": "adult",
+                "Perpetrator": "unknown",
+                "Setting Type": "Residential Area",
+                "IsEpicenterPresent": false,
+                "LocationNames": [
+                    "Boston, MA",
+                    "Los Angeles, CA",
+                    "Philadelphia, PA",
+                    "Houston, TX"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -122.330062,
+                        47.6038321
+                    ],
+                    [
+                        -75.1635262,
+                        39.9527237
+                    ],
+                    [
+                        -76.610759,
+                        39.2908816
+                    ],
+                    [
+                        -74.1723667,
+                        40.735657
+                    ]
+                ]
+            },
+            "properties": {
+                "Article Title": "America\u2019s Least Safe Cities In 2023 Are Democrat Strongholds",
+                "Date": "2023-07-01",
+                "Summary": "America\u2019s Least Safe Cities In 2023 Are Democrat Strongholds",
+                "Category": "Finance and Buisness",
+                "SubCategory": "Business Loss",
+                "Victim": "adult",
+                "Perpetrator": "unknown",
+                "Setting Type": "Residential Area",
+                "IsEpicenterPresent": false,
+                "LocationNames": [
+                    "- Seattle, WA",
+                    "- Philadelphia, PA",
+                    "- Baltimore, MD",
+                    "- Newark, NJ"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -80.6923169,
+                        32.3850708
+                    ],
+                    [
+                        -87.6244212,
+                        41.8755616
+                    ],
+                    [
+                        -73.9497211,
+                        40.6526006
+                    ],
+                    [
+                        -118.242766,
+                        34.0536909
+                    ],
+                    [
+                        -84.3902644,
+                        33.7489924
+                    ],
+                    [
+                        -80.19362,
+                        25.7741728
+                    ]
+                ]
+            },
+            "properties": {
+                "Article Title": "Here We Go Again: Alex Murdaugh\u2019s Next Trial Date Set",
+                "Date": "2023-06-01",
+                "Summary": "Here We Go Again: Alex Murdaugh\u2019s Next Trial Date Set",
+                "Category": "Trauma",
+                "SubCategory": "Disaster",
+                "Victim": "adult",
+                "Perpetrator": "unknown",
+                "Setting Type": "Residential Area",
+                "IsEpicenterPresent": true,
+                "LocationNames": [
+                    "Beaufort County, SC, USA",
+                    "Chicago, IL",
+                    "Brooklyn, NY",
+                    "Los Angeles, CA",
+                    "Atlanta, GA",
+                    "Miami, FL"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        151.1368729,
+                        -33.8933952
+                    ],
+                    [
+                        144.9631732,
+                        -37.8142454
+                    ],
+                    [
+                        115.8605855,
+                        -31.9558933
+                    ],
+                    [
+                        153.0234991,
+                        -27.4689682
+                    ],
+                    [
+                        138.5999312,
+                        -34.9281805
+                    ]
+                ]
+            },
+            "properties": {
+                "Article Title": "Bloody handprint re-tested 47 years after case murder 'powerfully indicates' culprit, inquiry told",
+                "Date": "2023-10-01",
+                "Summary": "Bloody handprint re-tested 47 years after case murder 'powerfully indicates' culprit, inquiry told",
+                "Category": "Personal and Relationships",
+                "SubCategory": "Toxic Behavior",
+                "Victim": "unknown",
+                "Perpetrator": "unknown",
+                "Setting Type": "Residential Area",
+                "IsEpicenterPresent": true,
+                "LocationNames": [
+                    "Summer Hill, Sydney, NSW, Australia",
+                    "Melbourne, Victoria",
+                    "Perth, Western Australia",
+                    "Brisbane, Queensland",
+                    "Adelaide, South Australia"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -75.1635262,
+                        39.9527237
+                    ],
+                    [
+                        -122.330062,
+                        47.6038321
+                    ],
+                    [
+                        -76.610759,
+                        39.2908816
+                    ],
+                    [
+                        -77.0365427,
+                        38.8950368
+                    ]
+                ]
+            },
+            "properties": {
+                "Article Title": "A Clockwork Orange as Left-wing Politics",
+                "Date": "2023-04-01",
+                "Summary": "A Clockwork Orange as Left-wing Politics",
+                "Category": "Personal and Relationships",
+                "SubCategory": "Social Anxiety",
+                "Victim": "adult",
+                "Perpetrator": "unknown",
+                "Setting Type": "The event took place in a Residential Area.",
+                "IsEpicenterPresent": true,
+                "LocationNames": [
+                    "Philadelphia, PA, USA",
+                    "Seattle, WA.",
+                    "Baltimore, MD.",
+                    "Washington, D.C."
+                ]
+            }
+        }
+    ]
+}
