@@ -14,7 +14,7 @@ html_content = """
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet" />
     <style>
         body { margin: 0; padding: 0; }
-        #map { position: absolute; top: 0; bottom: 0; width: calc(100% - 250px); right: 0; }
+        #map { position: absolute; top: 0; bottom: 0; height: 100vh; width: calc(100% - 250px); right: 0; }
         #sidebar { position: absolute; width: 250px; height: 100%; top: 0; left: 0; overflow-y: auto; background-color: white; font-family: 'Calibri', sans-serif; font-size: 12px;}
         ul { list-style-type: none; padding: 0px; }
         li { margin: 10px; cursor: pointer; }
