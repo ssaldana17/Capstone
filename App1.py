@@ -1,6 +1,8 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
+st.set_page_config(layout="wide")
+
 html_content = """
 <!DOCTYPE html>
 <html lang="en">
@@ -233,4 +235,4 @@ html_content = """
 """
 
 # Embed the HTML in Streamlit
-components.html(html_content, height=800, scrolling=True)
+components.html(html_content, height=1000, scrolling=True)
