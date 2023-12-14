@@ -74,7 +74,7 @@ html_content = """
         map.on('load', () => {
             map.addSource('your-data-source', {
                 type: 'geojson',
-                data: 'https://raw.githubusercontent.com/ssaldana17/Capstone/main/Output_GeoJSON_All.geojson'
+                data: 'https://raw.githubusercontent.com/ssaldana17/Capstone/main/Output_GeoJSON_3.geojson'
             });
 
             // Layer for the epicenter
@@ -147,7 +147,7 @@ html_content = """
         }
 
         document.addEventListener('DOMContentLoaded', function () {
-            fetch('https://raw.githubusercontent.com/ssaldana17/Capstone/main/Output_GeoJSON_All.geojson')
+            fetch('https://raw.githubusercontent.com/ssaldana17/Capstone/main/Output_GeoJSON_3.geojson')
             .then(response => response.json())
             .then(data => {
                 allArticles = data.features.map(feature => {
